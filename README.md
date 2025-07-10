@@ -1,9 +1,9 @@
 # Predictanic
-A predictive analytics project that uses historical passenger data from the Titanic disaster to determine survival outcomes using various machine learning algorithms. This project explores feature engineering, data visualization, and model evaluation to build an accurate classifier for binary survival prediction.
-
-
 📌 Overview
-This project is based on the iconic Titanic dataset, where the goal is to classify whether a passenger survived or not. The dataset includes features such as age, sex, ticket class, fare, and family relationships. The project follows a complete machine learning pipeline: from data cleaning and feature engineering to model training and evaluation.
+
+
+
+A predictive analytics project that uses historical passenger data from the Titanic disaster to determine survival outcomes using various machine learning algorithms. This project explores feature engineering, data visualization, and model evaluation to build an accurate classifier for binary survival prediction.
 
 ---
 
