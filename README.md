@@ -59,12 +59,20 @@ Implemented and compared:
 1. Clone the repository:
    - git clone https://github.com/yourusername/titanic-survival-prediction.git
    - cd titanic-survival-prediction
+
+
 2.Install required packages:
   - pip install -r requirements.txt
+
+---
+
 
 📈 Results
 - Best model: Random Forest with an accuracy of ~82%
 - Feature importance showed that Sex, Pclass, and Fare were top predictors.
+
+---
+
 
 📌 Folder Structure
 - ├── data/                  # Raw and cleaned dataset files
@@ -74,19 +82,26 @@ Implemented and compared:
 - ├── README.md
 - └── requirements.txt
 
+---
+
+
 📚 Learnings
 - Importance of feature engineering in small datasets
 - Handling missing values and categorical data
 - Hyperparameter tuning and model comparison
 
+---
+
 🤝 Contributions
 
 Feel free to fork this repo, raise issues, and submit pull requests!
 
+---
+
 
 📬 Contact
 
-Made with ❤️ by YASH BSGGS
-📧 Email: yashbagga5@gmail.com
-🔗 LinkedIn: linkedin.com/in/yash-bagga-a32b1a256
+- Made with ❤️ by YASH BAGGA
+- 📧 Email: yashbagga5@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/yash-bagga-a32b1a256
 
